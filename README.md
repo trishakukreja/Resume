@@ -32,5 +32,5 @@ I am a 3rd-year B.Tech student specializing in **Artificial Intelligence and Mac
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/trishakukreja](https://linkedin.com/in/trishakukreja)
+* **LinkedIn:** [[linkedin.com/in/trishakukreja](https://linkedin.com/in/trishakukreja)](https://www.linkedin.com/in/trisha-kukreja-64b9a827b/)
 * **Email:** trishakukreja9@gmail.com 

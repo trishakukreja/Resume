@@ -77,7 +77,7 @@
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/u/trishaakukreja/"><img src="https://img.shields.io/badge/LeetCode-trishaakukreja-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" /></a>
+  <img src="https://github-readme-leetcode-card.romitsagu.com/trishaakukreja?theme=tokyonight" alt="Trisha's LeetCode Stats" />
 </div>
 
 ---

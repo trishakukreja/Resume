@@ -9,9 +9,9 @@
 ---
 
 ### 🌻 About Me
-- 🎓 I recently wrapped up 8 semesters of engineering, for my B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning from VIT Bhopal University! 
+- 🎓 I recently wrapped up 8 semesters of engineering coursework for my B.Tech in Computer Science with a specialization in Artificial Intelligence and Machine Learning from VIT Bhopal University! 
 - 💻 I specialize in building and optimizing predictive models using Python, TensorFlow, and Scikit-Learn. 
-- 🧠 Right now, I'm deep-diving into Data Structures and Algorithms (DSA) and expanding my knowledge of Artificial Neural Networks, RAG and Reinforcement Learning.
+- 🧠 Right now, I'm deep-diving into Data Structures and Algorithms (DSA) and expanding my knowledge of Artificial Neural Networks, RAG, and Reinforcement Learning.
 - 🎨 When I'm not coding, I'm probably leading a creative team—I've loved my time directing campus aesthetics as the Decor Team Lead for Meraki. Outside of tech, I'm baking, setting up photography shots, or chasing sunsets and good weather.
 - ✨ **Life Motto:** Kindness matters. I'm the one who will always be smiling, no matter what!
 
@@ -38,21 +38,19 @@
 ---
 
 ### ✨ My Vibe & Hobbies
-<div align="center">
-  <div align="left">
+<div align="left">
   <ul>
     <li>🍰 <b>Baking:</b> Experimenting with new recipes and techniques.</li>
     <li>🎞️ <b>Animation:</b> Exploring digital storytelling and visual motion.</li>
     <li>🌅 <b>Nature Lover:</b> Chasing sunsets, the ocean, rain, and good weather.</li>
   </ul>
 </div>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Smiling%20Eyes.png" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Sparkles.png" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="50" height="50" />
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="Smiling" width="50" height="50" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Kindness" width="50" height="50" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f327_fe0f/512.gif" alt="Rain" width="50" height="50" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="Ocean" width="50" height="50" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="Photography" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drinks/Shortcake.png" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50" height="50" />
 </div>
@@ -63,7 +61,7 @@
 ### 🚀 Highlighted Projects
 - 🌿 **Farm Pure:** Created a platform connecting local farmers directly with consumers, engineering a custom GPS tracking system using Leaflet to render and set user coordinates. 
 - 📈 **Financial News Sentiment Dashboard:** Built a real-time Streamlit application that fetches articles from NewsAPI.org and processes them using the FinBERT language model to analyze stock ticker sentiment. 
-- 🎭 **KAI - Emotion Detection:** Co-Developed the backend for an innovative system that captures facial expressions to classify emotions (like happiness or anger) and adjusts conversational tone and visual animations on the fly, enabling the system to capture facial expressions via camera feed to classify emotions and dynamically adjust conversational tones and visual animations.
+- 🎭 **KAI - Emotion Detection:** Co-developed the backend for an innovative system that captures facial expressions via a camera feed to classify emotions (like happiness or anger) and dynamically adjusts conversational tones and visual animations on the fly.
 - 🧠 **Brain Tumour Classification:** Trained and optimized a classification model to detect three types of brain tumors.
 - 👁️ **Smart Vision-Based AI Assistant:** A real-time Computer Vision application that uses human gestures and facial analysis to automate workspace actions. It bridges the gap between human emotion and digital productivity by mapping physical cues to software triggers (Spotify, YouTube, and Windows System).
 
@@ -80,11 +78,12 @@
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/leetcode-trishaakukreja?theme=dark&font=Fira%20Code&ext=heatmap" alt="Trisha's LeetCode Stats" />
+  <img src="https://github-readme-leetcode-card.vercel.app/api?username=trishaakukreja&theme=dark&font=Fira%20Code&ext=heatmap" alt="Trisha's LeetCode Stats" />
 </div>
+
 ---
 <div align="center">
-  <i>"Let's build something amazing together!"</i> <br><br>
+  <i>"Let's build something amazing together, and don't forget to enjoy the little moments of life!" </i> <br><br>
   <a href="mailto:trishakukreja9@gmail.com"><img src="https://img.shields.io/badge/Email-trishakukreja9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/trisha-kukreja-64b9a827b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>

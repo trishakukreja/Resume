@@ -81,6 +81,7 @@
 
 ---
 <div align="center">
+  <a href="./Trisha%20V.%20Kukreja_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_View_My_Resume-2B3137?style=for-the-badge&logo=github&logoColor=white" alt="Resume" /></a>
   <i>"Let's build something amazing together, and don't forget to enjoy the little moments of life!" </i> <br><br>
   <a href="mailto:trishakukreja9@gmail.com"><img src="https://img.shields.io/badge/Email-trishakukreja9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/trisha-kukreja-64b9a827b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

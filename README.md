@@ -51,7 +51,6 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f327_fe0f/512.gif" alt="Rain" width="50" height="50" />
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="Ocean" width="50" height="50" />
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="Photography" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drinks/Shortcake.png" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50" height="50" />
 </div>
 <br>
@@ -78,7 +77,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-leetcode-card.vercel.app/api?username=trishaakukreja&theme=dark&font=Fira%20Code&ext=heatmap" alt="Trisha's LeetCode Stats" />
+  <a href="https://leetcode.com/u/trishaakukreja/"><img src="https://img.shields.io/badge/LeetCode-trishaakukreja-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" /></a>
 </div>
 
 ---

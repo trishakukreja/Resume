@@ -69,7 +69,6 @@
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishakukreja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="Trisha's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishakukreja&theme=tokyonight&hide_border=true&background=0D1117&cache_bypass=1" alt="Trisha's GitHub Streak" width="48%" />
 </div>
 

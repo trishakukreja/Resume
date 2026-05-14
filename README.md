@@ -46,14 +46,15 @@
     <li>🌅 <b>Nature Lover:</b> Chasing sunsets, the ocean, rain, and good weather.</li>
   </ul>
 </div>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="Smiling" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Kindness" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f327_fe0f/512.gif" alt="Rain" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.gif" alt="Sunsets" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="Ocean" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="Photography" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9c1/512.gif" alt="Baking" width="50" height="50">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" alt="Decor & Art" width="50" height="50">
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Smiling%20Eyes.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Sparkles.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drinks/Shortcake.png" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50" height="50" />
 </div>
 <br>
 
@@ -76,11 +77,11 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
-  ![Trisha's LeetCode Stats](https://leetcard.jacoblin.cool/trishaakukreja?theme=dark&font=Fira%20Code&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/leetcode-trishaakukreja?theme=dark&font=Fira%20Code&ext=heatmap" alt="Trisha's LeetCode Stats" />
 </div>
-
 ---
 <div align="center">
   <i>"Let's build something amazing together!"</i> <br><br>

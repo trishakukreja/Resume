@@ -39,6 +39,13 @@
 
 ### ✨ My Vibe & Hobbies
 <div align="center">
+  <div align="left">
+  <ul>
+    <li>🍰 <b>Baking:</b> Experimenting with new recipes and techniques.</li>
+    <li>🎞️ <b>Animation:</b> Exploring digital storytelling and visual motion.</li>
+    <li>🌅 <b>Nature Lover:</b> Chasing sunsets, the ocean, rain, and good weather.</li>
+  </ul>
+</div>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.gif" alt="Smiling" width="50" height="50">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="Kindness" width="50" height="50">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f327_fe0f/512.gif" alt="Rain" width="50" height="50">
@@ -56,7 +63,8 @@
 - 🌿 **Farm Pure:** Created a platform connecting local farmers directly with consumers, engineering a custom GPS tracking system using Leaflet to render and set user coordinates. 
 - 📈 **Financial News Sentiment Dashboard:** Built a real-time Streamlit application that fetches articles from NewsAPI.org and processes them using the FinBERT language model to analyze stock ticker sentiment. 
 - 🎭 **KAI - Emotion Detection:** Co-Developed the backend for an innovative system that captures facial expressions to classify emotions (like happiness or anger) and adjusts conversational tone and visual animations on the fly, enabling the system to capture facial expressions via camera feed to classify emotions and dynamically adjust conversational tones and visual animations.
-- 🧠 **Brain Tumour Classification:** Trained and optimized a classification model to detect three types of brain tumors. 
+- 🧠 **Brain Tumour Classification:** Trained and optimized a classification model to detect three types of brain tumors.
+- 👁️ **Smart Vision-Based AI Assistant:** A real-time Computer Vision application that uses human gestures and facial analysis to automate workspace actions. It bridges the gap between human emotion and digital productivity by mapping physical cues to software triggers (Spotify, YouTube, and Windows System).
 
 ---
 
@@ -70,12 +78,12 @@
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/trishaakukreja?theme=dark&font=Fira%20Code&ext=heatmap" alt="Trisha's LeetCode Stats" />
+  ![Trisha's LeetCode Stats](https://leetcard.jacoblin.cool/trishaakukreja?theme=dark&font=Fira%20Code&ext=heatmap)
 </div>
 
 ---
 <div align="center">
-  <i>"Let's build something amazing together, and don't forget to enjoy the rain!" 🌧️</i> <br><br>
+  <i>"Let's build something amazing together!"</i> <br><br>
   <a href="mailto:trishakukreja9@gmail.com"><img src="https://img.shields.io/badge/Email-trishakukreja9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="(https://www.linkedin.com/in/trisha-kukreja-64b9a827b/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/trisha-kukreja-64b9a827b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
